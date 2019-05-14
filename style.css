@@ -125,15 +125,23 @@ nav ul li ul li a:hover {
     }
 }
 /* carousel css*/
+
+.container {
+	padding-top: 25%;
+}
 .carousel .slide {
+	
 
 }
 
 .item .active {
+	padding-top: 100px;
+	width: 25%;
 
 }
 
 .left .carousel-control {
+	padding-top: 100px;
 
 }
 
@@ -165,6 +173,7 @@ nav ul li ul li a:hover {
 	float: right;
 	width: 50%;
 	padding-right: 3%;
+	z-index; 999;
 }
 	/*FountainPenpage*/
 
@@ -248,7 +257,7 @@ nav ul li ul li a:hover {
 	width: 23%;
 	
 }
-.rfulogos {
+.rfulogo {
 	float: left;
 }
 .gloveidea {
